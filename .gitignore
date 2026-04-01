@@ -1,0 +1,7 @@
+node_modules/
+auth_info/
+product_images/
+backups/
+*.json
+!package.json
+!railway.json
